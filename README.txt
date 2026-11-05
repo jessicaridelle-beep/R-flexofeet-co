@@ -1,4 +1,4 @@
-# Réflexofeet&co — site vitrine
+Réflexofeet&co — site vitrine
 
 ## Aperçu
 Ouvrez `index.html` dans un navigateur. Le site est responsive (ordinateur, tablette et téléphone).
